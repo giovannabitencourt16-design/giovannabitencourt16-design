@@ -10,7 +10,7 @@ Criando sites modernos, responsivos e sistemas web para pequenos negócios.
 
 ---
 
-## 👩‍💻 Sobre mim
+# 👩‍💻 Sobre mim
 
 💙 Desenvolvedora Web
 
@@ -27,23 +27,26 @@ Criando sites modernos, responsivos e sistemas web para pequenos negócios.
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,github,vscode,figma" />
 </p>
 
 ---
 
 # 💼 Projetos
 
-## 💅 Sistema para Manicure
+## 💅 Soraya Arruda
 
-Sistema completo para gerenciamento de clientes, agenda e serviços.
+Sistema para gerenciamento de clientes, agenda e serviços para manicure.
 
-🔗 https://soraya-arruda.netlify.app/
+🌐 **Site:** https://soraya-arruda.netlify.app/
 
-Tecnologias:
+💻 **Repositório:** https://github.com/giovannabitencourt16-design/soraya-arruda
+
+**Tecnologias:**
+
 - HTML
 - CSS
 - JavaScript
@@ -55,9 +58,12 @@ Tecnologias:
 
 Landing Page responsiva para confeitaria com carrinho integrado ao WhatsApp.
 
-🔗 https://deliciasdapaty.netlify.app/
+🌐 **Site:** https://deliciasdapaty.netlify.app/
 
-Tecnologias:
+💻 **Repositório:** https://github.com/giovannabitencourt16-design/delicias-da-pati
+
+**Tecnologias:**
+
 - HTML
 - CSS
 - JavaScript
@@ -68,11 +74,11 @@ Tecnologias:
 
 📧 **giovannabitencourt16@gmail.com**
 
-💼 LinkedIn
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/giovanna-bitencourt/
 
-💻 GitHub
+💻 **GitHub**
 
 https://github.com/giovannabitencourt16-design
 
@@ -89,6 +95,3 @@ Busco oportunidades como Desenvolvedora Front-End, criando interfaces modernas, 
 ⭐ Obrigada por visitar meu perfil!
 
 Se algum projeto chamou sua atenção, fique à vontade para explorar os repositórios e deixar uma ⭐.
-Se gostar de algum projeto, deixe uma ⭐ nos repositórios.
-
-⭐ Obrigada por visitar meu perfil!

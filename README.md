@@ -1,70 +1,105 @@
-# 👋 Olá, eu sou a Giovanna Bitencourt
+<h1 align="center">Olá, eu sou a Giovanna Bitencourt 👋</h1>
 
-💻 Desenvolvedora Web em formação, apaixonada por criar sites e sistemas que ajudam pequenos negócios a crescer.
+<h3 align="center">
+Desenvolvedora Web • HTML • CSS • JavaScript • Firebase
+</h3>
 
-🎯 Atualmente estou focada em:
-- HTML5
-- CSS3
+<p align="center">
+Buscando minha primeira oportunidade como Desenvolvedora Front-End e criando soluções para pequenos negócios.
+</p>
+
+---
+
+## 👩‍💻 Sobre mim
+
+💙 Desenvolvedora Web em formação
+
+🎓 Formada em Análise e Desenvolvimento de Sistemas
+
+📚 Aluna da DevClub
+
+🚀 Atualmente estudando:
+
 - JavaScript
 - Firebase
 - Git e GitHub
-- Responsividade
-- UI/UX
-
----
-
-## 🚀 Projetos
-
-### 💅 Sistema para Manicure
-Sistema completo para gerenciamento de clientes e agendamentos.
-
-🔗 https://soraya-arruda.netlify.app/
-
-Tecnologias:
-- HTML
-- CSS
-- JavaScript
-- Firebase
-
----
-
-### 🍰 Delícias da Paty
-Site responsivo para confeitaria com carrinho de compras integrado ao WhatsApp.
-
-🔗 https://deliciasdapaty.netlify.app/
-
-Tecnologias:
-- HTML
-- CSS
-- JavaScript
-
----
-
-## 📚 Atualmente estudando
-
-- JavaScript Avançado
-- Firebase
-- Git/GitHub
 - Desenvolvimento Full Stack
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Tecnologias
 
-![Giovanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giovannabitencourt16-design&show_icons=true&theme=tokyonight)
+<p align="left">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannabitencourt16-design&layout=compact&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,github,vscode,figma" />
+
+</p>
 
 ---
 
-## 📫 Contato-  11 99528-9110
+# 💼 Projetos
+
+## 💅 Sistema para Manicure
+
+Sistema completo para gerenciamento de clientes, agenda e serviços.
+
+🔗 https://soraya-arruda.netlify.app/
+
+Tecnologias utilizadas:
+
+- HTML
+- CSS
+- JavaScript
+- Firebase
+
+---
+
+## 🍰 Delícias da Paty
+
+Landing Page responsiva para confeitaria com carrinho de compras integrado ao WhatsApp.
+
+🔗 https://deliciasdapaty.netlify.app/
+
+Tecnologias utilizadas:
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+# 📊 Estatísticas
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=giovannabitencourt16&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannabitencourt16&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌎 Onde me encontrar
 
 📧 **giovannabitencourt16@gmail.com**
 
-💼 LinkedIn- https://www.linkedin.com/in/giovanna-bitencour/
+💼 LinkedIn
 
-Em construção 🚀
+https://www.linkedin.com/in/giovanna-bitencour/
+
+📍 São Paulo • Brasil
 
 ---
+
+# 🎯 Objetivo
+
+Atualmente busco oportunidades para atuar como Desenvolvedora Front-End, criando sites modernos, responsivos e sistemas web que entreguem valor para empresas e pequenos negócios.
+
+---
+
+⭐ Obrigada por visitar meu perfil!
+
+Se gostar de algum projeto, deixe uma ⭐ nos repositórios.
 
 ⭐ Obrigada por visitar meu perfil!

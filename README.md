@@ -1,18 +1,18 @@
-<h1 align="center">Olá, eu sou a Giovanna Bitencourt 👋</h1>
+<h1 align="center">Olá, eu sou Giovanna Bitencourt 👋</h1>
 
 <h3 align="center">
 Desenvolvedora Web • HTML • CSS • JavaScript • Firebase
 </h3>
 
 <p align="center">
-Buscando minha primeira oportunidade como Desenvolvedora Front-End e criando soluções para pequenos negócios.
+Criando sites modernos, responsivos e sistemas web para pequenos negócios.
 </p>
 
 ---
 
 ## 👩‍💻 Sobre mim
 
-💙 Desenvolvedora Web em formação
+💙 Desenvolvedora Web
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas
 
@@ -29,10 +29,8 @@ Buscando minha primeira oportunidade como Desenvolvedora Front-End e criando sol
 
 ## 🚀 Tecnologias
 
-<p align="left">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,github,vscode,figma" />
-
 </p>
 
 ---
@@ -45,8 +43,7 @@ Sistema completo para gerenciamento de clientes, agenda e serviços.
 
 🔗 https://soraya-arruda.netlify.app/
 
-Tecnologias utilizadas:
-
+Tecnologias:
 - HTML
 - CSS
 - JavaScript
@@ -56,37 +53,28 @@ Tecnologias utilizadas:
 
 ## 🍰 Delícias da Paty
 
-Landing Page responsiva para confeitaria com carrinho de compras integrado ao WhatsApp.
+Landing Page responsiva para confeitaria com carrinho integrado ao WhatsApp.
 
 🔗 https://deliciasdapaty.netlify.app/
 
-Tecnologias utilizadas:
-
+Tecnologias:
 - HTML
 - CSS
 - JavaScript
 
 ---
 
-# 📊 Estatísticas
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=giovannabitencourt16&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannabitencourt16&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌎 Onde me encontrar
+# 🌎 Contato
 
 📧 **giovannabitencourt16@gmail.com**
 
 💼 LinkedIn
 
-https://www.linkedin.com/in/giovanna-bitencour/
+https://www.linkedin.com/in/giovanna-bitencourt/
+
+💻 GitHub
+
+https://github.com/giovannabitencourt16-design
 
 📍 São Paulo • Brasil
 
@@ -94,12 +82,13 @@ https://www.linkedin.com/in/giovanna-bitencour/
 
 # 🎯 Objetivo
 
-Atualmente busco oportunidades para atuar como Desenvolvedora Front-End, criando sites modernos, responsivos e sistemas web que entreguem valor para empresas e pequenos negócios.
+Busco oportunidades como Desenvolvedora Front-End, criando interfaces modernas, responsivas e sistemas web que gerem valor para empresas e pequenos negócios.
 
 ---
 
 ⭐ Obrigada por visitar meu perfil!
 
+Se algum projeto chamou sua atenção, fique à vontade para explorar os repositórios e deixar uma ⭐.
 Se gostar de algum projeto, deixe uma ⭐ nos repositórios.
 
 ⭐ Obrigada por visitar meu perfil!
